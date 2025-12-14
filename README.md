@@ -10,6 +10,12 @@ Designed for developers, agencies, and site administrators who need more control
 
 ---
 
+## 📦 Available on WordPress.org  
+
+[WP Smart Maintenance Mode](https://wordpress.org/plugins/wp-smart-maintenance-mode)
+
+---
+
 ## 🚀 Features
 
 - 🔒 One-click maintenance mode enable/disable
