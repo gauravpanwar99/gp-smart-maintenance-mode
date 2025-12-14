@@ -12,7 +12,7 @@ Designed for developers, agencies, and site administrators who need more control
 
 ## 📦 Available on WordPress.org  
 
-[WP Smart Maintenance Mode](https://wordpress.org/plugins/wp-smart-maintenance-mode)
+[GP Smart Maintenance Mode](https://wordpress.org/plugins/gp-smart-maintenance-mode)
 
 ---
 
